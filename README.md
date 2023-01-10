@@ -1,5 +1,5 @@
 # blender-scripts
-Useful things for creating animations with the the Blender Python API (Blender 3.4.1)
+Useful things for creating animations with the the [Blender Python API](https://docs.blender.org/api/current/index.html) (Blender 3.4.1)
 
 ## Scripts
 
