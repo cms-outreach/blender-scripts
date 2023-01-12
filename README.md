@@ -8,6 +8,10 @@ Useful scripts for creating animations with the [Blender Python API](https://doc
 Converts the meshes associated with muons, electrons, and tracks to curves and
 adds a material. Then they are visible when rendered.
 
+* `change_background.py`
+
+Changes background color (to `0x202020`).
+
 ## Usage
 
 * Open Blender
